@@ -1,0 +1,119 @@
+body{
+    margin: 0%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #19191A;
+    background-color: aliceblue;
+}
+
+#navbar {
+    text-align: center;
+    overflow: hidden;
+    background-color: #72d1e4;
+    padding-top: 10px;
+}
+
+header{
+    background-color: #676CEB;
+    text-align: center;
+    width: 100%;
+    padding-top: 20px;
+}
+h1{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 3px;
+    color: #19191A;
+    font-weight: 700;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 3px;
+    color: #19191A;
+    font-weight: 500;
+}
+
+h3{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 3px;
+    color: #19191A;
+    font-weight: 400;
+}
+
+
+#portrait{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#interview{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+dt{
+    font-weight: 300;
+    color:#575759;
+    font-family: 'Montserrat', sans-serif;
+}
+dd{
+    margin: 0;
+    color: #19191A;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+#hobby-gallery{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    padding-top: 10px;
+}
+
+#hobbies{
+    font-family: 'Montserrat', sans-serif;;
+    color: #3881FF;
+    padding: 30px;
+}
+
+#landing-page-gallery{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    padding-top: 10px;
+}
+
+#landing-page{
+    font-family: 'Montserrat', sans-serif;;
+    color: #3881FF;
+    padding: 30px;
+}
+
+figcaption{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+#footer{
+    width: 100%;
+    background-color: #38FFA2;
+    position: absolute;
+    padding-bottom: 20px;
+}
+#footer a:link{
+    color: #19191A ;
+    float:right;
+    text-decoration: underline;
+}
+
+#footer a:visited{
+    color: #575759;
+    text-decoration: underline;
+}
